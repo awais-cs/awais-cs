@@ -2,7 +2,7 @@
 👋 **Hi, I'm Awais Ali!** **.NET Full-Stack Developer** with over 5 years of experience architecting, building, and deploying scalable enterprise web applications. Currently based in Dubai, I specialize in the Microsoft ecosystem (**C#, ASP.NET Core/MVC, Entity Framework, SQL Server**) paired with dynamic frontend frameworks like **ReactJS, Angular, and Blazor**. From optimizing backend APIs to designing interactive user interfaces, I love turning complex business requirements into efficient, production-ready software.
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/awaisliaqatali) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:awaisliakat@gmail.com) [![Phone](https://img.shields.io/badge/Phone-%23555555.svg?style=for-the-badge&logoColor=white)](tel:+971509770923) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://wa.me/971509770923)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/awaisliaqatali) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:awaisliakat@gmail.com) [![Phone](https://img.shields.io/badge/Phone-%23555555.svg?style=for-the-badge&logoColor=white)](tel:+971507860923) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://wa.me/971507860923)
 
 ---
 
